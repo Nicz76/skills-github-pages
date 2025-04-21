@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-This is my first time coding this webpage
+section: This is my first time coding this webpage
 ---
 
